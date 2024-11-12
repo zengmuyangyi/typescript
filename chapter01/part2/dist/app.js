@@ -1,3 +1,2 @@
-import { hi } from "./m";
+"use strict";
 var a = 10;
-console.log('****', hi);

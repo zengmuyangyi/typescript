@@ -1,1 +1,4 @@
-export var hi = '你好';
+"use strict";
+var b = 20;
+var c = 'hello';
+console.log(b, c);
